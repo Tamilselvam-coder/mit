@@ -1,1 +1,9 @@
-# mit
+# TECHNITE'25
+
+## TEAM NAME : TEAM 301
+## PROBLEM STATEMENT : GEN AI
+
+### API USED : LLAMA 33 70B
+
+### RUN COMMAND :
+  ''' python main.py '''
