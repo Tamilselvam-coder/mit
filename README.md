@@ -3,7 +3,8 @@
 ## TEAM NAME : TEAM 301
 ## PROBLEM STATEMENT : GEN AI
 
-### API USED : LLAMA 33 70B
 
+
+### MODEL USED : LLAMA 33 70B
 ### RUN COMMAND :
-  python main.py
+ - python main.py
