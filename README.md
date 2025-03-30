@@ -6,4 +6,4 @@
 ### API USED : LLAMA 33 70B
 
 ### RUN COMMAND :
-  '''python main.py'''
+  python main.py
